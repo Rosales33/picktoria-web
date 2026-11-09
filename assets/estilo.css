@@ -148,8 +148,9 @@ th {
   font-weight: 600;
 }
 
-/* Una tabla sin encabezados, como la del aviso legal, no enseña su fila vacía. */
-thead:has(th:empty:first-child) {
+/* Una tabla sin encabezados, como la del aviso legal, no enseña su fila vacía: la marca así
+   `scripts/publicar_web.py`. */
+table.sin-cabecera thead {
   display: none;
 }
 

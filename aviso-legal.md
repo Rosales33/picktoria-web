@@ -17,6 +17,7 @@ _Última actualización: 9 de noviembre de 2026_
 | Domicilio | Calle Julio Palacios 24, 28029 Madrid (España) |
 | Correo | [hola@picktoria.es](mailto:hola@picktoria.es) |
 | Qué ofrece | Picktoria, una app para competir con tus amigos prediciendo resultados deportivos, en ligas privadas y con puntos que no valen dinero, y esta web |
+{: .sin-cabecera}
 
 No está inscrito en ningún registro público, no ejerce una profesión regulada y no está adherido a
 ningún código de conducta.
