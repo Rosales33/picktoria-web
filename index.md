@@ -5,8 +5,9 @@ layout: default
 # Compite con tus amigos prediciendo resultados deportivos
 
 Picktoria es una app para jugar en grupo. Creáis una liga privada, cada semana hacéis vuestros
-picks sobre partidos de verdad —fútbol, baloncesto y Fórmula 1— y gana quien más acierta. Los
-puntos no valen dinero: lo que está en juego es quedar por delante.
+picks sobre eventos deportivos reales —por ahora fútbol, baloncesto y Fórmula 1, y próximamente
+más— y gana quien más acierta. Los puntos no valen dinero: lo que está en juego es quedar por
+delante.
 
 **Muy pronto en el App Store y en Google Play.**
 
