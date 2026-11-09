@@ -1,0 +1,35 @@
+<!doctype html>
+<html lang="es">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>{% if page.titulo %}{{ page.titulo }} · {% endif %}Picktoria</title>
+    <meta name="description" content="{{ page.descripcion | default: 'Compite con tus amigos prediciendo resultados deportivos, en ligas privadas y con puntos que no valen dinero.' }}">
+    <meta name="color-scheme" content="light dark">
+    <link rel="icon" type="image/png" href="/assets/favicon.png">
+    <link rel="stylesheet" href="/assets/estilo.css">
+  </head>
+  <body>
+    <header class="cabecera">
+      <a href="/" class="marca" aria-label="Picktoria, inicio">
+        <picture>
+          <source srcset="/assets/logotipo-oscuro.png" media="(prefers-color-scheme: dark)">
+          <img src="/assets/logotipo-claro.png" alt="Picktoria" width="145" height="32">
+        </picture>
+      </a>
+    </header>
+    <main>
+      {{ content }}
+    </main>
+    <footer class="pie">
+      <nav aria-label="Documentos">
+        <a href="/privacidad/">Privacidad</a>
+        <a href="/terminos/">Términos</a>
+        <a href="/aviso-legal/">Aviso legal</a>
+        <a href="/soporte/">Ayuda y contacto</a>
+        <a href="/borrar-cuenta/">Eliminar tu cuenta</a>
+      </nav>
+      <p>Sin cookies ni analítica. <a href="mailto:hola@picktoria.es">hola@picktoria.es</a></p>
+    </footer>
+  </body>
+</html>
