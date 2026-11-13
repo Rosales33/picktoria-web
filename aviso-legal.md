@@ -1,12 +1,14 @@
 ---
 layout: default
 titulo: Aviso legal
+idioma: es
 permalink: /aviso-legal/
+traduccion: /en/legal-notice/
 ---
 
 # Aviso legal
 
-_Última actualización: 9 de noviembre de 2026_
+_Última actualización: 13 de noviembre de 2026_
 
 ## Quién está detrás de Picktoria
 
@@ -25,8 +27,9 @@ ningún código de conducta.
 ## Precios
 
 La app es gratuita. Lo único que se vende es el **premium de una liga**, que se paga una vez por
-toda la duración de la liga: **9,99 €** por 3 meses, **14,99 €** por 6 y **24,99 €** por 12, con
-los impuestos incluidos. El precio final es el que enseña la tienda —App Store o Google Play— al
+toda la duración de la liga: en España, **9,99 €** por 3 meses, **14,99 €** por 6 y **24,99 €**
+por 12, con los impuestos incluidos. En otros países, la tienda fija el precio equivalente en tu
+moneda. El precio final es el que enseña la tienda —App Store o Google Play— al
 pagar.
 
 ## Más información

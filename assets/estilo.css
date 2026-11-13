@@ -48,8 +48,17 @@ main,
 }
 
 .cabecera {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1rem;
   padding-top: 1.5rem;
   padding-bottom: 0.5rem;
+}
+
+/* El enlace a la misma página en el otro idioma. */
+.idioma {
+  font-size: 0.95rem;
 }
 
 .marca {

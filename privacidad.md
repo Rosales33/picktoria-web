@@ -1,19 +1,21 @@
 ---
 layout: default
 titulo: Política de privacidad de Picktoria
+idioma: es
 permalink: /privacidad/
+traduccion: /en/privacy/
 ---
 
 # Política de privacidad de Picktoria
 
-_Última actualización: 9 de noviembre de 2026_
+_Última actualización: 13 de noviembre de 2026_
 
 Picktoria es una app para competir con tus amigos prediciendo resultados deportivos, en ligas
 privadas y con puntos que no valen dinero. Esta política explica qué datos tuyos tratamos, para
 qué, con quién los compartimos, cuánto tiempo los guardamos y cómo puedes ejercer tus derechos.
 
 **En corto:** guardamos lo mínimo para que puedas jugar. Tu correo no lo ve nunca nadie más que tú.
-Todo vive en servidores de la Unión Europea. No hay publicidad, ni analítica, ni perfiles, y no
+Todo vive en servidores de la Unión Europea, estés donde estés. No hay publicidad, ni analítica, ni perfiles, y no
 vendemos tus datos a nadie. Si eliminas tu cuenta, se anonimiza en el momento.
 
 ## 1. Quién es el responsable
@@ -169,7 +171,8 @@ Puedes pedirnos en cualquier momento **acceder** a tus datos, **rectificarlos**,
   cuenta, para que sepamos que eres tú— o desde Soporte. Te contestamos en un mes como mucho.
 
 Si crees que no hemos tratado bien tus datos, puedes reclamar ante la **Agencia Española de
-Protección de Datos** ([www.aepd.es](https://www.aepd.es)).
+Protección de Datos** ([www.aepd.es](https://www.aepd.es)) o, si vives en otro país, ante la
+autoridad de protección de datos del tuyo.
 
 ## 7. Menores
 

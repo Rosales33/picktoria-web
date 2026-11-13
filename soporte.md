@@ -1,7 +1,9 @@
 ---
 layout: default
 titulo: Ayuda y contacto
+idioma: es
 permalink: /soporte/
+traduccion: /en/support/
 ---
 
 # Ayuda y contacto

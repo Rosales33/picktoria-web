@@ -1,5 +1,6 @@
 ---
 layout: default
+traduccion: /en/
 ---
 
 # Compite con tus amigos prediciendo resultados deportivos

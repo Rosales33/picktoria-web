@@ -1,7 +1,9 @@
 ---
 layout: default
 titulo: Eliminar tu cuenta de Picktoria
+idioma: es
 permalink: /borrar-cuenta/
+traduccion: /en/delete-account/
 ---
 
 # Eliminar tu cuenta de Picktoria

@@ -1,12 +1,14 @@
 ---
 layout: default
 titulo: Términos y condiciones de Picktoria
+idioma: es
 permalink: /terminos/
+traduccion: /en/terms/
 ---
 
 # Términos y condiciones de Picktoria
 
-_Última actualización: 9 de noviembre de 2026_
+_Última actualización: 13 de noviembre de 2026_
 
 ## 1. Quién presta el servicio
 
@@ -140,5 +142,6 @@ no estás de acuerdo con la nueva versión, puedes eliminar tu cuenta.
 
 ## 12. Ley aplicable
 
-Estos términos se rigen por la **ley española**. Si tienes un problema, escríbenos primero: casi
-todo se arregla así. Si no, puedes acudir a los juzgados de tu domicilio, como consumidor.
+Estos términos se rigen por la **ley española**, sin quitarte la protección que te da como
+consumidor la ley del país donde vives. Si tienes un problema, escríbenos primero: casi todo se
+arregla así. Si no, puedes acudir a los juzgados de tu domicilio, como consumidor.
