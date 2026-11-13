@@ -93,6 +93,12 @@ Para detectar abusos y errores y poder recuperar el servicio si algo falla:
 Para saber qué se rompe en tu móvil: la traza del error, el modelo y el sistema de tu dispositivo y
 la versión de la app. **Sin tu nombre, sin tu correo y sin tu IP.**
 
+### Las actualizaciones de la app
+
+Para que las correcciones lleguen sin esperar a una versión nueva en la tienda: al abrirse, la app
+pregunta si hay una actualización. En esa petición van tu **dirección IP**, tu sistema, la versión
+de la app y un identificador aleatorio de esa instalación. **Ni tu cuenta ni tu correo.**
+
 ### Lo que no hacemos
 
 No usamos tus datos para **publicidad**, no medimos lo que haces en la app con herramientas de
@@ -117,7 +123,7 @@ y solo para eso:
 | Proveedor | Para qué | Dónde |
 | --- | --- | --- |
 | Amazon Web Services | Los servidores, la base de datos, las cuentas (Cognito), los registros y las copias | Irlanda (UE) |
-| Expo | Enviar los avisos al móvil | EE. UU. |
+| Expo | Enviar los avisos al móvil y las actualizaciones de la app | EE. UU. |
 | Google (Firebase Cloud Messaging) | Entregar los avisos en Android | EE. UU. y otros |
 | Apple (Apple Push Notification service) | Entregar los avisos en iPhone | EE. UU. y otros |
 | RevenueCat | Comprobar las compras hechas en la tienda; recibe un identificador aleatorio de tu cuenta, no tu correo | EE. UU. |

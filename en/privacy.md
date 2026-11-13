@@ -96,6 +96,12 @@ To detect abuse and errors, and to be able to restore the service if something f
 To find out what breaks on your phone: the error trace, your device's model and system, and the
 app version. **Without your name, your email or your IP.**
 
+### App updates
+
+So that fixes reach you without waiting for a new version in the store: when it opens, the app
+checks whether there's an update. That request carries your **IP address**, your system, the app
+version and a random identifier for that installation. **Not your account or your email.**
+
 ### What we don't do
 
 We don't use your data for **advertising**, we don't measure what you do in the app with
@@ -120,7 +126,7 @@ that:
 | Provider | What for | Where |
 | --- | --- | --- |
 | Amazon Web Services | The servers, the database, accounts (Cognito), logs and backups | Ireland (EU) |
-| Expo | Sending notifications to your phone | USA |
+| Expo | Sending notifications to your phone, and app updates | USA |
 | Google (Firebase Cloud Messaging) | Delivering notifications on Android | USA and elsewhere |
 | Apple (Apple Push Notification service) | Delivering notifications on iPhone | USA and elsewhere |
 | RevenueCat | Checking purchases made in the store; it receives a random identifier for your account, not your email | USA |
