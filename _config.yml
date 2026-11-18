@@ -1,0 +1,12 @@
+# La web de Picktoria (picktoria.es), que construye GitHub Pages con Jekyll.
+#
+# La fuente vive en el repositorio privado: esta carpeta, `web/`, y los documentos de
+# `docs/legal/`. `make publicar-web` los junta y los sube al repositorio público.
+title: Picktoria
+lang: es
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+exclude:
+  - README.md

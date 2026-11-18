@@ -1,0 +1,30 @@
+# Los textos de la plantilla (`_layouts/default.html`) en cada idioma. Los de cada página van en
+# ella; los documentos legales, en `docs/legal/` y su traducción en `docs/legal/en/`.
+es:
+  inicio: /
+  marca: Picktoria, inicio
+  descripcion: Compite con tus amigos prediciendo resultados deportivos, en ligas privadas y con puntos que no valen dinero.
+  otro_idioma: English
+  otro_codigo: en
+  documentos: Documentos
+  enlaces:
+    - { texto: Privacidad, ruta: /privacidad/ }
+    - { texto: Términos, ruta: /terminos/ }
+    - { texto: Aviso legal, ruta: /aviso-legal/ }
+    - { texto: Ayuda y contacto, ruta: /soporte/ }
+    - { texto: Eliminar tu cuenta, ruta: /borrar-cuenta/ }
+  pie: Sin cookies ni analítica.
+en:
+  inicio: /en/
+  marca: Picktoria, home
+  descripcion: Compete with your friends by predicting sports results, in private leagues and with points that are worth no money.
+  otro_idioma: Español
+  otro_codigo: es
+  documentos: Documents
+  enlaces:
+    - { texto: Privacy, ruta: /en/privacy/ }
+    - { texto: Terms, ruta: /en/terms/ }
+    - { texto: Legal notice, ruta: /en/legal-notice/ }
+    - { texto: Help and contact, ruta: /en/support/ }
+    - { texto: Delete your account, ruta: /en/delete-account/ }
+  pie: No cookies, no analytics.
