@@ -8,7 +8,7 @@ traduccion: /en/terms/
 
 # Términos y condiciones de Picktoria
 
-_Última actualización: 18 de noviembre de 2026_
+_Última actualización: 20 de noviembre de 2026_
 
 ## 1. Quién presta el servicio
 
@@ -60,12 +60,16 @@ intentamos que sea así.
 ## 5. Las ligas
 
 - **Son privadas**: se entra con un código de invitación que comparte su administrador.
+- **Caben hasta 10 personas** en una liga gratis y hasta 50 en una premium, el administrador
+  incluido. Con la liga llena, el código no deja entrar a nadie más.
 - **El administrador** configura la liga, decide quién se queda —puede expulsar a un miembro y
   volver a admitirlo— y puede borrarla. La duración y el inicio de semana no se cambian una vez
   creada.
 - **Al terminar**, solo la ve su administrador, que puede renovarla para una temporada nueva
   conservando el histórico, durante los 15 días siguientes.
 - **Una liga terminada se borra al año** de terminar, con todo lo que había dentro.
+- **Si sale la última persona que quedaba**, la liga se borra en ese momento, con todo lo que había
+  dentro, y su código deja de funcionar.
 
 ## 6. Normas de convivencia
 
@@ -94,8 +98,8 @@ que hace falta para prestar el servicio, mientras exista.
 
 ## 7. El premium
 
-- **El premium es de una liga**, no de una persona: le da más competiciones, más picks por semana
-  y combinadas más largas a todos sus miembros. Lo que incluye exactamente se explica en la app
+- **El premium es de una liga**, no de una persona: le da más competiciones, más picks por semana,
+  combinadas más largas y sitio para más gente, para todos sus miembros. Lo que incluye exactamente se explica en la app
   antes de pagar.
 - **Se paga una sola vez por la duración de la liga** —3, 6 o 12 meses— y dura lo que dura ella.
   **No se renueva solo** ni tiene cobros periódicos.

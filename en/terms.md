@@ -8,7 +8,7 @@ traduccion: /terminos/
 
 # Picktoria Terms and Conditions
 
-_Last updated: 18 November 2026_
+_Last updated: 20 November 2026_
 
 _This is a translation of the [Spanish original](https://picktoria.es/terminos). If the two ever
 say different things, the one more favourable to you applies._
@@ -63,11 +63,15 @@ although we try to make it so.
 ## 5. Leagues
 
 - **They're private**: you join with an invite code shared by their admin.
+- **Up to 10 people fit** in a free league and up to 50 in a premium one, the admin included. Once
+  the league is full, the code doesn't let anyone else in.
 - **The admin** sets the league up, decides who stays —they can ban a member and readmit them— and
   can delete it. The duration and the week start can't be changed once it's created.
 - **When it ends**, only its admin can see it, and they can renew it for a new season keeping its
   history, during the following 15 days.
 - **A finished league is deleted one year** after it ends, with everything in it.
+- **If the last person left in it leaves**, the league is deleted right then, with everything in
+  it, and its code stops working.
 
 ## 6. Community rules
 
@@ -97,7 +101,7 @@ is what's needed to provide the service, for as long as it exists.
 ## 7. Premium
 
 - **Premium belongs to a league**, not to a person: it gives all its members more competitions,
-  more picks per week and longer combos. Exactly what it includes is explained in the app before
+  more picks per week, longer combos and room for more people. Exactly what it includes is explained in the app before
   you pay.
 - **It's paid once for the league's duration** —3, 6 or 12 months— and lasts as long as the
   league does. **It doesn't renew by itself** and has no recurring charges.
